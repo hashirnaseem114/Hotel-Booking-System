@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HotelMS {
+public class HotelBS {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
