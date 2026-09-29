@@ -75,4 +75,4 @@ Total Hotel Revenue: Rs. 108000.0
 
 ## Author
 
-**Hashir Naseem**
+**Muhammad Hashir Naseem**
